@@ -104,7 +104,19 @@
             .footer .container-fluid {
                 background-color: #82AAE3;
             }
-            
+            .divider{
+                height: 5px;
+                background-color:rgba(253, 194, 0);
+            }
+            .divider-10{
+                width: 10%;
+            }
+            .divider-20{
+                width: 20%;
+            }
+            .divider-center{
+                margin: auto;
+            }
             @media screen and (max-width:772px) {
                 .hero-container .col-md-6 {
                     display: flex;
